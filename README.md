@@ -1,0 +1,3 @@
+# ue5_gpu_collisionray_sample
+
+GPU パーティクルのCollision Rayヒットのサンプルプロジェクト
